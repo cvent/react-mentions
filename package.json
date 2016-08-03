@@ -76,6 +76,11 @@
   "dependencies": {
     "babel-runtime": "^6.5.0",
     "lodash": "^4.5.1",
+<<<<<<< HEAD
+=======
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
+>>>>>>> 065ec677f17f3bb83aae30ce4703615c01c07db1
     "substyle": "^2.0.2"
   }
 }
