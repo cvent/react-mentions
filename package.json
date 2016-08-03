@@ -27,6 +27,10 @@
   "bugs": {
     "url": "https://github.com/effektif/react-mentions/issues"
   },
+  "peerDependencies": {
+    "react": ">=0.14.0 || >=15.0.0",
+    "react-dom": ">=0.14.0 || >=15.0.0"
+  },
   "homepage": "https://github.com/effektif/react-mentions",
   "devDependencies": {
     "babel-cli": "^6.5.1",
@@ -72,8 +76,6 @@
   "dependencies": {
     "babel-runtime": "^6.5.0",
     "lodash": "^4.5.1",
-    "react": ">=0.15.0",
-    "react-dom": ">=0.14.0",
     "substyle": "^2.0.2"
   }
 }
