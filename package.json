@@ -47,7 +47,7 @@
     "chai-enzyme": "^0.4.1",
     "chai-things": "^0.2.0",
     "css-loader": "^0.20.0",
-    "envify": "1.2.0",
+    "envify": "1.2.1",
     "enzyme": "^2.0.0",
     "grunt": ">=0.4.1",
     "grunt-contrib-copy": ">=0.4.1",
