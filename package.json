@@ -55,7 +55,7 @@
     "grunt-gh-pages": "~0.9.1",
     "isparta": "^4.0.0",
     "jquery": "^2.2.1",
-    "jsdom": "^8.0.4",
+    "jsdom": "^8.5.0",
     "less": "~2.3.1",
     "less-loader": "^2.2.0",
     "mocha": "^1.20.1",
